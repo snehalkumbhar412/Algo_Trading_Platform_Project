@@ -125,4 +125,4 @@ This project demonstrates a complete, end-to-end algorithmic trading system. By 
 
 ---
 
-## <u>**Workflow Diagram**</u>
+## <u>**Read the README.docx for more details and the work flow diagram**</u>
